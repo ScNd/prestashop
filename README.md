@@ -7,4 +7,5 @@ Prestashop modules
 
   KNOWN ISSUES:
   * Setting "on sale" icon fails on some environments.
-  * Main DB Query has some hardcoded values (id\_shop, price, from\_quantity)
+  * Main DB Query has some hardcoded values (id\_shop, price, from\_quantity).
+  * It does not check if a given id_product exists.
